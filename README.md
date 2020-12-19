@@ -15,6 +15,6 @@
 -  python manage.py migrate
 -  python manage.py runserver
 
-# APIS
--  PizzaListView API for listing accordding to filter
+# API's
+-  PizzaListView API for listing according to filter
 -  PizzaView API for CURD Operations
